@@ -10,3 +10,7 @@ Option #1. To run the software you must download the package. Using intilij it w
 
 
 If that does not work there is a qr code that will scan you into expo go except I will have to boot up the server so if you email me when you are going on I can boot it up.  
+
+## Itteration #2:
+Download Expo Go and scan this image
+<img width="179" alt="image" src="https://user-images.githubusercontent.com/42981247/160029696-ca45e9d6-ad15-48e6-a0c1-1a0626c81dcb.png">
