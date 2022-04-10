@@ -22,7 +22,7 @@ Continued unit testing, included
 Continued buildout in Expo
 Configured databse for account management
 
-# Loyola Recwell App in React Native
+...
 
 ## Getting Started
 To run the app, simply run
