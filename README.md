@@ -14,3 +14,34 @@ If that does not work there is a qr code that will scan you into expo go except 
 ## Itteration #2:
 Download Expo Go and scan this image
 <img width="179" alt="image" src="https://user-images.githubusercontent.com/42981247/160029696-ca45e9d6-ad15-48e6-a0c1-1a0626c81dcb.png">
+
+
+## Iteration #3
+
+Continued unit testing, included
+Continued buildout in Expo
+Configured databse for account management
+
+# Loyola Recwell App in React Native
+
+## Getting Started
+To run the app, simply run
+
+``` npm install && expo start ```
+
+And scan the QR code in the Expo client app.
+
+## Expo Demo
+<center><a href=""><img src="https://www.instamobile.io/wp-content/uploads/2019/07/Screen-Shot-2019-07-22-at-8.20.29-PM.png" /></a></center>
+
+## Features
+
+- Trainer, student, admin
+- Login
+- Accounts run on backend database
+- Events
+- Applications
+- Search
+- Hamburger Menu
+- Navigation Bar
+- Compatible with Expo
