@@ -25,19 +25,18 @@ Configured databse for account management
 ...
 
 ## Getting Started
-To run the app, simply run
+- Download the final project zip from above
+- Unzip the file
+- In your favorite application with a terminal (preferably Intelij) run `npm start`
+- This will run a local host on your computer http://localhost:19002/
+- Naviagate to this local host page on the left there is a connection bar change the connect to tunnel
+- Download the expo go app on your phone
+- Scan the QR code given on the local host
 
-``` npm install && expo start ```
-
-And scan the QR code in the Expo client app.
-
-## Expo Demo
-<center><a href=""><img src="https://www.instamobile.io/wp-content/uploads/2019/07/Screen-Shot-2019-07-22-at-8.20.29-PM.png" /></a></center>
 
 ## Features
 
 - Trainer, student, admin
-- Login
 - Accounts run on backend database
 - Events
 - Applications
