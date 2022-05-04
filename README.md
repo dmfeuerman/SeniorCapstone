@@ -1,7 +1,7 @@
 # SeniorCapstone
 
 # Final Project Link:
-## Due to the necessary node.js configurations the file must be downloaded from a zip. The node files are to large to upload to github. This link will bring you to a shared folder with a .zip file. Once downloaded follow the running instructions below
+### Due to the necessary node.js configurations the file must be downloaded from a zip. The node files are to large to upload to github. This link will bring you to a shared folder with a .zip file. Once downloaded follow the running instructions below
 https://drive.google.com/drive/folders/1_iX3F81bdUN9kLzyF_HprT2CtjNpS22F?usp=sharing
 
 ## Running The Code
