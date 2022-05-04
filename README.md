@@ -1,4 +1,18 @@
 # SeniorCapstone
+
+# Final Project Link:
+## Due to the necessary node.js configurations the file must be downloaded from a zip. The node files are to large to upload to github. This link will bring you to a shared folder with a .zip file. Once downloaded follow the running instructions below
+https://drive.google.com/drive/folders/1_iX3F81bdUN9kLzyF_HprT2CtjNpS22F?usp=sharing
+
+## Running The Code
+- Download the final project zip from above
+- Unzip the file
+- In your favorite application with a terminal (preferably Intelij) run `npm start`
+- This will run a local host on your computer http://localhost:19002/
+- Naviagate to this local host page on the left there is a connection bar change the connect to tunnel
+- Download the expo go app on your phone
+- Scan the QR code given on the local host
+
 ## User stories:
 https://docs.google.com/spreadsheets/d/1IWdneTInZB0owaIWEWKtlrm3WZqcvK6ETK-gUiQEOek/edit?usp=sharing
 
